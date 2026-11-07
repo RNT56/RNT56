@@ -27,8 +27,6 @@ in Apple's [MLX Swift](https://github.com/ml-explore/mlx-swift) and
 #### Work with me
 
 - **Free website check**: a report on your live site, every finding with its evidence.
-- **Landing pages** from €1,400, **business websites** from €3,400, **app prototypes** (web or
-  SwiftUI) from €5,900, **agent workflows for teams** from €2,400.
 - Reply within 24 hours on working days: [rnt56.2b@gmail.com](mailto:rnt56.2b@gmail.com)
 
 <!-- Add once the domain is live: Portfolio, packages and case studies: https://rnt56.dev -->
