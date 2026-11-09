@@ -3,8 +3,6 @@
 I build **websites, web and iOS apps, and tooling for AI coding agents** – freelance, for companies
 and teams, remote from Germany. German and English.
 
-My rule: every project says what works today and what is still open, and every claim points to code
-you can check.
 
 #### Public work
 
